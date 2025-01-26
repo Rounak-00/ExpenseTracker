@@ -1,0 +1,55 @@
+# Maven build files
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Gradle build files
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# IDE-specific files
+
+## Eclipse/STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+## IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+
+## NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+## VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Executables
+*.jar
+*.exe
+
+# Documentation
+!HELP.md
