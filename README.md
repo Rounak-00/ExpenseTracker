@@ -78,13 +78,6 @@ Here are the major endpoints exposed by the application:
 
 ---
 
-## Contributing
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request with a detailed description of your changes.
-
----
-
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
@@ -93,7 +86,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 For any questions or issues, please contact:
 - **Name**: Rounak
-- **Email**: [Your Email Address]
+- **Email**: rounakmazumder309@gmail.com
 
 ---
 
