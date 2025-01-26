@@ -10,6 +10,8 @@ build/
 !**/src/test/**/build/
 
 # IDE-specific files
+src/test/
+
 
 ## Eclipse/STS
 .apt_generated
