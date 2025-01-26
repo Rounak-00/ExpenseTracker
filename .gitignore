@@ -1,1 +1,8 @@
 /target/*
+/src/test*
+/.idea/*
+/.mvn/*
+
+HELP.md
+mvnw
+mvnw.cmd
